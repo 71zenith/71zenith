@@ -1,4 +1,4 @@
-- ✌️ Hello, I’m zenith71, 14 y/o
+- ✌️ Hello, I’m zenith71, 15 y/o
 - 👀 I’m interested in FOSS and Linux
 - 🖊️ I know shell scripting, not the best but definitely getting there
 - 📫 Mail at 71zenith@protonmail.com if you wanna contact me
